@@ -1,0 +1,7 @@
+image: gitpod/workspace-full
+
+tasks:
+  - name: Install Requirements and Playwright
+    before: pip install -r requirements.txt
+    init: playwright install-deps
+    command: playwright install
