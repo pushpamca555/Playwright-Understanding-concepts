@@ -1,14 +1,1 @@
-options = ChromeOptions()
-options.browser_version = "131"
-options.platform_name = "Windows 10"
-lt_options = {};
-lt_options["username"] = "pushpa_sathish";
-lt_options["accessKey"] = "cgubzyOubHatV66TTQyFMyWI2HJZ95psh5HzKiUXYkyFs6Xhmc";
-                           cgubzyOubHatV66TTQyFMyWI2HJZ95psh5HzKiUXYkyFs6Xhmc
-lt_options["project"] = "Untitled";
-lt_options["w3c"] = True;
-lt_options["plugin"] = "python-python";
-options.set_capability('LT:Options', lt_options);
 
-AAKJJ-RQYPY-QMMYM-ZRUMU 
-Test Id for python selenium 101
